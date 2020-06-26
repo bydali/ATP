@@ -25,7 +25,7 @@ public class Main extends Application {
 	                getClass().getResourceAsStream("ATP.PNG")));
 			primaryStage.setMaximized(true);
 			primaryStage.show();
-			System.out.println("sadfsa");
+			System.out.println("s");
 		} catch(Exception e) {
 			e.printStackTrace();
 		}
